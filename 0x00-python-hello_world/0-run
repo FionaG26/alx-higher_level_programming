@@ -1,2 +1,2 @@
 #!/bin/bash
-fiona $$PYFILE
+fiona $PYFILE
