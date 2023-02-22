@@ -18,3 +18,4 @@ if __name__ == "__main__":
 
     b5 = Base()
     print(b5.id)
+    print(b5._Base__nb_objects)
