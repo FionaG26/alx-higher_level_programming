@@ -22,4 +22,3 @@ if __name__ == '__main__':
     for state in st:
         for city in state.cities:
             print("{}: {} -> {}".format(city.id, city.name, state.name))
-
